@@ -111,8 +111,8 @@ type, which are not a part of this RFC.
 
 This RFC proposes a very simple syntax for defining an associated type
 constructor, which looks a lot like the syntax for creating aliases for type
-constructors. The goal of using this syntax is to avoid to creating roadblocks
-for users who do not already understand higher kindedness.
+constructors. The goal of using this syntax is to avoid creating roadblocks for
+users who do not already understand higher kindedness.
 
 ```rust
 trait StreamingIterator {
