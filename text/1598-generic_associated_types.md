@@ -348,7 +348,7 @@ generic; after this RFC, this will be possible. Rather than teaching this as
 a separate feature, it will be taught as an advanced use case for associated
 types.
 
-Patterns like "family traits" should also be taught in some way, possible in
+Patterns like "family traits" should also be taught in some way, possibly in
 the book or possibly just through supplemental forms of documentation like
 blog posts.
 
